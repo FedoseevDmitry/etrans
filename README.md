@@ -2,7 +2,7 @@ Project <a href="https://fedoseevdmitry.github.io/etrans/">"E-Trans"</a> Intensi
 
 <ul>ToDo:
   <li><s>Markup</s></li>
-  <li>Styles</li>
+  <li><s>Styles</s></li>
   <li>Adaptive</li>
   <li>Interactive</li>
 </ul>
